@@ -30,3 +30,5 @@ git init
   32 git push -u master
   33 git push origin  master
   34 git remote -v
+
+this is some new changes
