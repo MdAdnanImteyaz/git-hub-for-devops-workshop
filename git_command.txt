@@ -32,3 +32,31 @@ git init
   34 git remote -v
 
 this is some new changes
+
+ 36 git status
+  37 git add "new commands"
+  38 git commit -m git_command.txt
+  39 git add git_command.txt
+  40 git commit -m "added new commands"
+  41 git stautus
+  42 git status
+  43 git push origin master
+  44 git pull origin master
+  45 git branch -M dev
+  46 git status
+  47 git branch -M master
+  48 git status
+  49 git branch
+  50 git checkout -B dev
+  51 git branch
+  52 git branch -m master
+  53 git branch -M master
+  54 git branch
+  56 git checkout -B dev
+  57 git branch
+  58 git add this_is_from_dev.txt
+  59 git status
+  60 git commit -m "this is dev file"
+  61 git log
+  62 git checkout master
+  65 git push origin dev
