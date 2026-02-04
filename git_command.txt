@@ -1,0 +1,24 @@
+git init
+   4 git status
+   5 git add .
+   6 git status
+   7 git branch
+   8 git remote -v
+   9 clear
+  10 git rm --cache
+  11 git status
+  12 git rm --cached
+  13 git rm --cached testing.py
+  14 git rm --cached testing.py
+  15 git status
+  16 git add testing.py
+  17 git status
+  18 git rm -- tetsing.py
+  19 git status
+  20 git branch -M master
+  21 git branch -m
+  22 git status
+  23 git commit -m "addded testing files"
+  24 git status
+  25 history 
+  
