@@ -21,4 +21,12 @@ git init
   23 git commit -m "addded testing files"
   24 git status
   25 history 
-  
+  26 git staus
+  27 git status
+  28 git add git_command.txt
+  29 git commit -m "adding commands"
+  30 git status
+  31 git remote add origin 
+  32 git push -u master
+  33 git push origin  master
+  34 git remote -v
